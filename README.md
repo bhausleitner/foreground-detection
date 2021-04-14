@@ -1,5 +1,8 @@
 # Foreground Detection for Virtual Background Feature
 
+![image](https://user-images.githubusercontent.com/58265021/114748533-51315a00-9d52-11eb-8a15-f194b5ee1b88.png)
+
+
 ## Best practice
 To get the best result, please use the following settings:
 
